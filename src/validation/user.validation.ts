@@ -11,3 +11,17 @@ export const createAccountSchema = (req, res, next) =>{
   });
   validateRequest(req, next, schema);
 };
+
+export const loginSchema = (req, res, next) => {
+  const schema = Joi.object({
+    name: Joi.string().required().messages({
+      'string.empty': 'Username is required',
+      'any.required': 'Username is required'
+    }),
+    password: Joi.string().required().messages({
+      'string.empty': 'Password is required',
+      'any.required': 'Password is required'
+    })
+  });
+  validateRequest(req, next, schema);
+};

@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "countryName": "Afghanistan",
+    "iso2": "AF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "countryName": "Aland Islands",
+    "iso2": "AX",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "countryName": "Albania",
+    "iso2": "AL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "countryName": "Algeria",
+    "iso2": "DZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "countryName": "American Samoa",
+    "iso2": "AS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "countryName": "Andorra",
+    "iso2": "AD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "countryName": "Angola",
+    "iso2": "AO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "countryName": "Anguilla",
+    "iso2": "AI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "countryName": "Antarctica",
+    "iso2": "AQ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "countryName": "Antigua And Barbuda",
+    "iso2": "AG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "countryName": "Argentina",
+    "iso2": "AR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 12,
+    "countryName": "Armenia",
+    "iso2": "AM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 13,
+    "countryName": "Aruba",
+    "iso2": "AW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 14,
+    "countryName": "Australia",
+    "iso2": "AU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 15,
+    "countryName": "Austria",
+    "iso2": "AT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 16,
+    "countryName": "Azerbaijan",
+    "iso2": "AZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 17,
+    "countryName": "The Bahamas",
+    "iso2": "BS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 18,
+    "countryName": "Bahrain",
+    "iso2": "BH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 19,
+    "countryName": "Bangladesh",
+    "iso2": "BD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 20,
+    "countryName": "Barbados",
+    "iso2": "BB",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 21,
+    "countryName": "Belarus",
+    "iso2": "BY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 22,
+    "countryName": "Belgium",
+    "iso2": "BE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 23,
+    "countryName": "Belize",
+    "iso2": "BZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 24,
+    "countryName": "Benin",
+    "iso2": "BJ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 25,
+    "countryName": "Bermuda",
+    "iso2": "BM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 26,
+    "countryName": "Bhutan",
+    "iso2": "BT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 27,
+    "countryName": "Bolivia",
+    "iso2": "BO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 28,
+    "countryName": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 29,
+    "countryName": "Botswana",
+    "iso2": "BW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 30,
+    "countryName": "Bouvet Island",
+    "iso2": "BV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 31,
+    "countryName": "Brazil",
+    "iso2": "BR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 32,
+    "countryName": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 33,
+    "countryName": "Brunei",
+    "iso2": "BN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 34,
+    "countryName": "Bulgaria",
+    "iso2": "BG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 35,
+    "countryName": "Burkina Faso",
+    "iso2": "BF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 36,
+    "countryName": "Burundi",
+    "iso2": "BI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 37,
+    "countryName": "Cambodia",
+    "iso2": "KH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 38,
+    "countryName": "Cameroon",
+    "iso2": "CM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 39,
+    "countryName": "Canada",
+    "iso2": "CA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 40,
+    "countryName": "Cape Verde",
+    "iso2": "CV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 41,
+    "countryName": "Cayman Islands",
+    "iso2": "KY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 42,
+    "countryName": "Central African Republic",
+    "iso2": "CF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 43,
+    "countryName": "Chad",
+    "iso2": "TD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 44,
+    "countryName": "Chile",
+    "iso2": "CL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 45,
+    "countryName": "China",
+    "iso2": "CN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 46,
+    "countryName": "Christmas Island",
+    "iso2": "CX",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 47,
+    "countryName": "Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 48,
+    "countryName": "Colombia",
+    "iso2": "CO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 49,
+    "countryName": "Comoros",
+    "iso2": "KM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 50,
+    "countryName": "Congo",
+    "iso2": "CG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 51,
+    "countryName": "Democratic Republic of the Congo",
+    "iso2": "CD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 52,
+    "countryName": "Cook Islands",
+    "iso2": "CK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 53,
+    "countryName": "Costa Rica",
+    "iso2": "CR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 54,
+    "countryName": "Cote D'Ivoire (Ivory Coast)",
+    "iso2": "CI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 55,
+    "countryName": "Croatia",
+    "iso2": "HR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 56,
+    "countryName": "Cuba",
+    "iso2": "CU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 57,
+    "countryName": "Cyprus",
+    "iso2": "CY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 58,
+    "countryName": "Czech Republic",
+    "iso2": "CZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 59,
+    "countryName": "Denmark",
+    "iso2": "DK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 60,
+    "countryName": "Djibouti",
+    "iso2": "DJ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 61,
+    "countryName": "Dominica",
+    "iso2": "DM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 62,
+    "countryName": "Dominican Republic",
+    "iso2": "DO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 63,
+    "countryName": "East Timor",
+    "iso2": "TL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 64,
+    "countryName": "Ecuador",
+    "iso2": "EC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 65,
+    "countryName": "Egypt",
+    "iso2": "EG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 66,
+    "countryName": "El Salvador",
+    "iso2": "SV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 67,
+    "countryName": "Equatorial Guinea",
+    "iso2": "GQ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 68,
+    "countryName": "Eritrea",
+    "iso2": "ER",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 69,
+    "countryName": "Estonia",
+    "iso2": "EE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 70,
+    "countryName": "Ethiopia",
+    "iso2": "ET",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 71,
+    "countryName": "Falkland Islands",
+    "iso2": "FK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 72,
+    "countryName": "Faroe Islands",
+    "iso2": "FO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 73,
+    "countryName": "Fiji Islands",
+    "iso2": "FJ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 74,
+    "countryName": "Finland",
+    "iso2": "FI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 75,
+    "countryName": "France",
+    "iso2": "FR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 76,
+    "countryName": "French Guiana",
+    "iso2": "GF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 77,
+    "countryName": "French Polynesia",
+    "iso2": "PF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 78,
+    "countryName": "French Southern Territories",
+    "iso2": "TF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 79,
+    "countryName": "Gabon",
+    "iso2": "GA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 80,
+    "countryName": "Gambia The",
+    "iso2": "GM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 81,
+    "countryName": "Georgia",
+    "iso2": "GE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 82,
+    "countryName": "Germany",
+    "iso2": "DE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 83,
+    "countryName": "Ghana",
+    "iso2": "GH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 84,
+    "countryName": "Gibraltar",
+    "iso2": "GI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 85,
+    "countryName": "Greece",
+    "iso2": "GR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 86,
+    "countryName": "Greenland",
+    "iso2": "GL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 87,
+    "countryName": "Grenada",
+    "iso2": "GD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 88,
+    "countryName": "Guadeloupe",
+    "iso2": "GP",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 89,
+    "countryName": "Guam",
+    "iso2": "GU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 90,
+    "countryName": "Guatemala",
+    "iso2": "GT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 91,
+    "countryName": "Guernsey and Alderney",
+    "iso2": "GG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 92,
+    "countryName": "Guinea",
+    "iso2": "GN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 93,
+    "countryName": "Guinea-Bissau",
+    "iso2": "GW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 94,
+    "countryName": "Guyana",
+    "iso2": "GY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 95,
+    "countryName": "Haiti",
+    "iso2": "HT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 96,
+    "countryName": "Heard Island and McDonald Islands",
+    "iso2": "HM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 97,
+    "countryName": "Honduras",
+    "iso2": "HN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 98,
+    "countryName": "Hong Kong S.A.R.",
+    "iso2": "HK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 99,
+    "countryName": "Hungary",
+    "iso2": "HU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 100,
+    "countryName": "Iceland",
+    "iso2": "IS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 101,
+    "countryName": "India",
+    "iso2": "IN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 102,
+    "countryName": "Indonesia",
+    "iso2": "ID",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 103,
+    "countryName": "Iran",
+    "iso2": "IR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 104,
+    "countryName": "Iraq",
+    "iso2": "IQ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 105,
+    "countryName": "Ireland",
+    "iso2": "IE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 106,
+    "countryName": "Israel",
+    "iso2": "IL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 107,
+    "countryName": "Italy",
+    "iso2": "IT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 108,
+    "countryName": "Jamaica",
+    "iso2": "JM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 109,
+    "countryName": "Japan",
+    "iso2": "JP",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 110,
+    "countryName": "Jersey",
+    "iso2": "JE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 111,
+    "countryName": "Jordan",
+    "iso2": "JO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 112,
+    "countryName": "Kazakhstan",
+    "iso2": "KZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 113,
+    "countryName": "Kenya",
+    "iso2": "KE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 114,
+    "countryName": "Kiribati",
+    "iso2": "KI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 115,
+    "countryName": "North Korea",
+    "iso2": "KP",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 116,
+    "countryName": "South Korea",
+    "iso2": "KR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 117,
+    "countryName": "Kuwait",
+    "iso2": "KW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 118,
+    "countryName": "Kyrgyzstan",
+    "iso2": "KG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 119,
+    "countryName": "Laos",
+    "iso2": "LA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 120,
+    "countryName": "Latvia",
+    "iso2": "LV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 121,
+    "countryName": "Lebanon",
+    "iso2": "LB",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 122,
+    "countryName": "Lesotho",
+    "iso2": "LS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 123,
+    "countryName": "Liberia",
+    "iso2": "LR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 124,
+    "countryName": "Libya",
+    "iso2": "LY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 125,
+    "countryName": "Liechtenstein",
+    "iso2": "LI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 126,
+    "countryName": "Lithuania",
+    "iso2": "LT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 127,
+    "countryName": "Luxembourg",
+    "iso2": "LU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 128,
+    "countryName": "Macau S.A.R.",
+    "iso2": "MO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 129,
+    "countryName": "Macedonia",
+    "iso2": "MK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 130,
+    "countryName": "Madagascar",
+    "iso2": "MG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 131,
+    "countryName": "Malawi",
+    "iso2": "MW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 132,
+    "countryName": "Malaysia",
+    "iso2": "MY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 133,
+    "countryName": "Maldives",
+    "iso2": "MV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 134,
+    "countryName": "Mali",
+    "iso2": "ML",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 135,
+    "countryName": "Malta",
+    "iso2": "MT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 136,
+    "countryName": "Man (Isle of)",
+    "iso2": "IM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 137,
+    "countryName": "Marshall Islands",
+    "iso2": "MH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 138,
+    "countryName": "Martinique",
+    "iso2": "MQ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 139,
+    "countryName": "Mauritania",
+    "iso2": "MR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 140,
+    "countryName": "Mauritius",
+    "iso2": "MU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 141,
+    "countryName": "Mayotte",
+    "iso2": "YT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 142,
+    "countryName": "Mexico",
+    "iso2": "MX",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 143,
+    "countryName": "Micronesia",
+    "iso2": "FM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 144,
+    "countryName": "Moldova",
+    "iso2": "MD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 145,
+    "countryName": "Monaco",
+    "iso2": "MC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 146,
+    "countryName": "Mongolia",
+    "iso2": "MN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 147,
+    "countryName": "Montenegro",
+    "iso2": "ME",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 148,
+    "countryName": "Montserrat",
+    "iso2": "MS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 149,
+    "countryName": "Morocco",
+    "iso2": "MA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 150,
+    "countryName": "Mozambique",
+    "iso2": "MZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 151,
+    "countryName": "Myanmar",
+    "iso2": "MM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 152,
+    "countryName": "Namibia",
+    "iso2": "NA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 153,
+    "countryName": "Nauru",
+    "iso2": "NR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 154,
+    "countryName": "Nepal",
+    "iso2": "NP",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 155,
+    "countryName": "Bonaire, Sint Eustatius and Saba",
+    "iso2": "BQ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 156,
+    "countryName": "Netherlands",
+    "iso2": "NL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 157,
+    "countryName": "New Caledonia",
+    "iso2": "NC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 158,
+    "countryName": "New Zealand",
+    "iso2": "NZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 159,
+    "countryName": "Nicaragua",
+    "iso2": "NI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 160,
+    "countryName": "Niger",
+    "iso2": "NE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 161,
+    "countryName": "Nigeria",
+    "iso2": "NG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 162,
+    "countryName": "Niue",
+    "iso2": "NU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 163,
+    "countryName": "Norfolk Island",
+    "iso2": "NF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 164,
+    "countryName": "Northern Mariana Islands",
+    "iso2": "MP",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 165,
+    "countryName": "Norway",
+    "iso2": "NO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 166,
+    "countryName": "Oman",
+    "iso2": "OM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 167,
+    "countryName": "Pakistan",
+    "iso2": "PK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 168,
+    "countryName": "Palau",
+    "iso2": "PW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 169,
+    "countryName": "Palestinian Territory Occupied",
+    "iso2": "PS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 170,
+    "countryName": "Panama",
+    "iso2": "PA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 171,
+    "countryName": "Papua new Guinea",
+    "iso2": "PG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 172,
+    "countryName": "Paraguay",
+    "iso2": "PY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 173,
+    "countryName": "Peru",
+    "iso2": "PE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 174,
+    "countryName": "Philippines",
+    "iso2": "PH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 175,
+    "countryName": "Pitcairn Island",
+    "iso2": "PN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 176,
+    "countryName": "Poland",
+    "iso2": "PL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 177,
+    "countryName": "Portugal",
+    "iso2": "PT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 178,
+    "countryName": "Puerto Rico",
+    "iso2": "PR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 179,
+    "countryName": "Qatar",
+    "iso2": "QA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 180,
+    "countryName": "Reunion",
+    "iso2": "RE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 181,
+    "countryName": "Romania",
+    "iso2": "RO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 182,
+    "countryName": "Russia",
+    "iso2": "RU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 183,
+    "countryName": "Rwanda",
+    "iso2": "RW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 184,
+    "countryName": "Saint Helena",
+    "iso2": "SH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 185,
+    "countryName": "Saint Kitts And Nevis",
+    "iso2": "KN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 186,
+    "countryName": "Saint Lucia",
+    "iso2": "LC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 187,
+    "countryName": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 188,
+    "countryName": "Saint Vincent And The Grenadines",
+    "iso2": "VC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 189,
+    "countryName": "Saint-Barthelemy",
+    "iso2": "BL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 190,
+    "countryName": "Saint-Martin (French part)",
+    "iso2": "MF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 191,
+    "countryName": "Samoa",
+    "iso2": "WS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 192,
+    "countryName": "San Marino",
+    "iso2": "SM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 193,
+    "countryName": "Sao Tome and Principe",
+    "iso2": "ST",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 194,
+    "countryName": "Saudi Arabia",
+    "iso2": "SA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 195,
+    "countryName": "Senegal",
+    "iso2": "SN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 196,
+    "countryName": "Serbia",
+    "iso2": "RS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 197,
+    "countryName": "Seychelles",
+    "iso2": "SC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 198,
+    "countryName": "Sierra Leone",
+    "iso2": "SL",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 199,
+    "countryName": "Singapore",
+    "iso2": "SG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 200,
+    "countryName": "Slovakia",
+    "iso2": "SK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 201,
+    "countryName": "Slovenia",
+    "iso2": "SI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 202,
+    "countryName": "Solomon Islands",
+    "iso2": "SB",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 203,
+    "countryName": "Somalia",
+    "iso2": "SO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 204,
+    "countryName": "South Africa",
+    "iso2": "ZA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 205,
+    "countryName": "South Georgia",
+    "iso2": "GS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 206,
+    "countryName": "South Sudan",
+    "iso2": "SS",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 207,
+    "countryName": "Spain",
+    "iso2": "ES",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 208,
+    "countryName": "Sri Lanka",
+    "iso2": "LK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 209,
+    "countryName": "Sudan",
+    "iso2": "SD",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 210,
+    "countryName": "Suriname",
+    "iso2": "SR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 211,
+    "countryName": "Svalbard And Jan Mayen Islands",
+    "iso2": "SJ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 212,
+    "countryName": "Swaziland",
+    "iso2": "SZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 213,
+    "countryName": "Sweden",
+    "iso2": "SE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 214,
+    "countryName": "Switzerland",
+    "iso2": "CH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 215,
+    "countryName": "Syria",
+    "iso2": "SY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 216,
+    "countryName": "Taiwan",
+    "iso2": "TW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 217,
+    "countryName": "Tajikistan",
+    "iso2": "TJ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 218,
+    "countryName": "Tanzania",
+    "iso2": "TZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 219,
+    "countryName": "Thailand",
+    "iso2": "TH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 220,
+    "countryName": "Togo",
+    "iso2": "TG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 221,
+    "countryName": "Tokelau",
+    "iso2": "TK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 222,
+    "countryName": "Tonga",
+    "iso2": "TO",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 223,
+    "countryName": "Trinidad And Tobago",
+    "iso2": "TT",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 224,
+    "countryName": "Tunisia",
+    "iso2": "TN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 225,
+    "countryName": "Turkey",
+    "iso2": "TR",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 226,
+    "countryName": "Turkmenistan",
+    "iso2": "TM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 227,
+    "countryName": "Turks And Caicos Islands",
+    "iso2": "TC",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 228,
+    "countryName": "Tuvalu",
+    "iso2": "TV",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 229,
+    "countryName": "Uganda",
+    "iso2": "UG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 230,
+    "countryName": "Ukraine",
+    "iso2": "UA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 231,
+    "countryName": "United Arab Emirates",
+    "iso2": "AE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 232,
+    "countryName": "United Kingdom",
+    "iso2": "GB",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 233,
+    "countryName": "United States Of America",
+    "iso2": "US",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 234,
+    "countryName": "United States Minor Outlying Islands",
+    "iso2": "UM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 235,
+    "countryName": "Uruguay",
+    "iso2": "UY",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 236,
+    "countryName": "Uzbekistan",
+    "iso2": "UZ",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 237,
+    "countryName": "Vanuatu",
+    "iso2": "VU",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 238,
+    "countryName": "Vatican City State (Holy See)",
+    "iso2": "VA",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 239,
+    "countryName": "Venezuela",
+    "iso2": "VE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 240,
+    "countryName": "Vietnam",
+    "iso2": "VN",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 241,
+    "countryName": "Virgin Islands (British)",
+    "iso2": "VG",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 242,
+    "countryName": "Virgin Islands (US)",
+    "iso2": "VI",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 243,
+    "countryName": "Wallis And Futuna Islands",
+    "iso2": "WF",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 244,
+    "countryName": "Western Sahara",
+    "iso2": "EH",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 245,
+    "countryName": "Yemen",
+    "iso2": "YE",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 246,
+    "countryName": "Zambia",
+    "iso2": "ZM",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 247,
+    "countryName": "Zimbabwe",
+    "iso2": "ZW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 248,
+    "countryName": "Kosovo",
+    "iso2": "XK",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 249,
+    "countryName": "Curaçao",
+    "iso2": "CW",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  },
+  {
+    "id": 250,
+    "countryName": "Sint Maarten (Dutch part)",
+    "iso2": "SX",
+    "createdAt": "2023-12-14 12:54:50.138584+05:30",
+    "updatedAt": "2023-12-14 12:54:50.139383+05:30",
+    "deletedAt": null
+  }
+]

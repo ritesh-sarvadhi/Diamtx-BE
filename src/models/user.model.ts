@@ -7,78 +7,103 @@ dotenv.config({ path: './.env' });
 module.exports = function(sequelize, DataTypes) {
   const User = sequelize.define('User', {
     id: {
+      type: DataTypes.BIGINT,
       allowNull: false,
-      type: DataTypes.UUID,
-      defaultValue: DataTypes.UUIDV1,
+      autoIncrement: true,
       primaryKey: true
     },
-    firstName: {
-      allowNull: false,
-      type: DataTypes.STRING
-    },
-    lastName: {
-      allowNull: false,
-      type: DataTypes.STRING
-    },
-    avatar: {
-      type: DataTypes.STRING
-    },
-    phone: {
-      type: DataTypes.STRING
-    },
-    password: {
-      allowNull: false,
+    name: {
       type: DataTypes.STRING,
-      validate: {
-        notEmpty: true,
-        len: [ 6, 100 ]
-      }
-    },
-    resetToken: {
-      type: DataTypes.STRING
-    },
-    resetTokenSentAt: {
-      type: DataTypes.DATE,
-      validate: {
-        isDate: true
-      }
-    },
-    resetTokenExpireAt: {
-      type: DataTypes.DATE,
-      validate: {
-        isDate: true
+      allowNull: false,
+      unique: {
+        args: true,
+        msg: 'Please use a different username',
       }
     },
     email: {
-      allowNull: false,
       type: DataTypes.STRING,
-      validate: {
-        len: {
-          args: [ 6, 128 ],
-          msg: 'Email address must be between 6 and 128 characters in length'
-        },
-        isEmail: {
-          msg: 'Email address must be valid'
-        }
-      }
+    },
+    email2: {
+      type: DataTypes.STRING
+    },
+    phone: {
+      type: DataTypes.STRING,
+    },
+    password: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    roleId: {
+      type: DataTypes.BIGINT,
+    },
+    refId: {
+      type: DataTypes.BIGINT,
+      allowNull: true,
+    },
+    isApiTrue: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: false,
+      allowNull: true
+    },
+    dayTermsId: {
+      type: DataTypes.BIGINT,
+      allowNull: true,
+    },
+    dayTermsName: {
+      type: DataTypes.STRING,
+      allowNull: true
+    },
+    location: {
+      type: DataTypes.ARRAY(DataTypes.BIGINT),
+      allowNull: true
     },
     status: {
-      allowNull: false,
-      type: DataTypes.ENUM,
-      values: [ 'pending' , 'accepted' ],
-      defaultValue: 'pending',
-      validate: {
-        isIn: {
-          args: [[ 'pending' , 'accepted' ]],
-          msg: 'Invalid status.'
-        }
-      }
-    }
+      type: DataTypes.BOOLEAN,
+      defaultValue: false
+    },
+    loginType: {
+      type: DataTypes.STRING,
+      index: true
+    },
+    companyId: {
+      type: DataTypes.BIGINT,
+    },
+    departmentId: {
+      type: DataTypes.BIGINT,
+    },
+    termsId: {
+      type: DataTypes.BIGINT,
+    },
+    createdBy: {
+      type: DataTypes.BIGINT,
+    },
+    updatedBy: {
+      type: DataTypes.BIGINT,
+    },
+    deletedBy: {
+      type: DataTypes.BIGINT,
+    },
+    accessToken: {
+      type: DataTypes.STRING,
+    },
+    userLevel: {
+      type: DataTypes.INTEGER,
+      allowNull: true,
+      defaultValue: 2
+    },
+    isEmployee: {
+      type: DataTypes.BOOLEAN,
+      allowNull: true,
+      defaultValue: false
+    },
+    logoutAt: {
+      type: DataTypes.DATE,
+      allowNull: true
+    },
   }, {
-    indexes: [{ unique: true, fields: ['email'] }],
     timestamps: true,
     freezeTableName: true,
-    tableName: 'users'
+    tableName: 'User'
   });
 
   User.beforeSave(user => {

@@ -5,7 +5,7 @@ dotenv.config();
 
 export function verifyJWTToken(token) {
   return new Promise((resolve, reject) => {
-    jwt.verify(token, process.env.SECRET, (err, decodedToken) => {
+    jwt.verify(token, process.env.JWT_SECRET, (err, decodedToken) => {
       if (err || !decodedToken) {
         return reject(err);
       }
@@ -17,7 +17,7 @@ export function verifyJWTToken(token) {
 export function createJWToken(payload) {
   return jwt.sign({
     data: payload
-  }, process.env.SECRET, {
+  }, process.env.JWT_SECRET, {
     expiresIn: 3600,
     algorithm: 'HS256'
   });
