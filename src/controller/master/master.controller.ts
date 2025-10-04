@@ -1,6 +1,8 @@
 import { Request, Response } from 'express';
 import { logger } from '../../logger/Logger';
 import db from '../../models';
+import { QueryTypes } from 'sequelize';
+import { sequelize } from '../../config/sequelize';
 
 export class MasterController {
 
@@ -25,11 +27,27 @@ export class MasterController {
   async subMasterList(req: Request, res: Response, next) {
     try {
       const parentId = Number(req.params.id);
-      const masters = await db['Master'].findAll({
-        where: {
-          parentId: parentId,
+      if (Number.isNaN(parentId)) {
+        return res.status(400).json({
+          success: false,
+          message: 'Invalid master id provided.',
+        });
+      }
+
+      const masters = await sequelize.query(
+        `
+          SELECT 
+            m.*, 
+            ROW_NUMBER() OVER (ORDER BY COALESCE(m."sequence", 0), m."id") AS "rowNo"
+          FROM "Master" m
+          WHERE m."parentId" = :parentId
+          ORDER BY COALESCE(m."sequence", 0), m."id"
+        `,
+        {
+          replacements: { parentId },
+          type: QueryTypes.SELECT,
         }
-      });
+      );
 
       return res.status(200).json({
         success: true,
