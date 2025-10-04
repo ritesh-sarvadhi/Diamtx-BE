@@ -6,7 +6,7 @@ dotenv.config({ path: './.env' });
 export const config = {
   development: {
     db_host: process.env.DB_HOSTNAME,
-    secret: process.env.SECRET,
+    secret: process.env.JWT_SECRET,
     db_name: process.env.DB_NAME,
     db_user: process.env.DB_USERNAME,
     db_password: process.env.DB_PASSWORD,
@@ -16,7 +16,7 @@ export const config = {
   },
   test: {
     db_host: process.env.DB_HOSTNAME,
-    secret: process.env.SECRET,
+    secret: process.env.JWT_SECRET,
     db_name: process.env.DB_NAME,
     db_user: process.env.DB_USERNAME,
     db_password: process.env.DB_PASSWORD,
@@ -26,7 +26,7 @@ export const config = {
   },
   production: {
     db_host: process.env.DB_HOSTNAME,
-    secret: process.env.SECRET,
+    secret: process.env.JWT_SECRET,
     db_name: process.env.DB_NAME,
     db_user: process.env.DB_USERNAME,
     db_password: process.env.DB_PASSWORD,
