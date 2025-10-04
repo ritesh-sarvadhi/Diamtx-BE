@@ -6,7 +6,7 @@ import express,{ Express } from 'express';
 import cors from 'cors';
 import { json, urlencoded } from 'body-parser';
 
-import * as routes from './routes/';
+import routes from './routes';
 import { logger } from './logger/Logger';
 import { environment } from './config';
 import { errorHandlerMiddleware, responseHandling } from './middleware';
@@ -36,7 +36,7 @@ export class Server {
     }));
     this.app.use(json());
     this.app.use(responseHandling);
-    routes.initRoutes(this.app);
+    this.app.use(routes);
     this.app.use(errorHandlerMiddleware);
     this.app.listen(PORT, () => {
       logger.info(`👍 Server successfully started at port ${PORT}`);
@@ -48,4 +48,3 @@ export class Server {
   }
 }
 new Server();
-
