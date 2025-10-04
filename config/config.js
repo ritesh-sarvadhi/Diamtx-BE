@@ -1,27 +1,31 @@
-const dotenv = require('dotenv');
-dotenv.config();
+require('dotenv').config();
 
-const databaseConfig = {
+module.exports = {
   development: {
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
     host: process.env.DB_HOSTNAME,
-    dialect: 'postgres'
+    port: process.env.DB_PORT,
+    dialect: process.env.DB_DRIVER,
+    logging: false
   },
   test: {
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
     host: process.env.DB_HOSTNAME,
-    dialect: 'postgres'
+    port: process.env.DB_PORT,
+    dialect: process.env.DB_DRIVER,
+    logging: false
   },
   production: {
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
     host: process.env.DB_HOSTNAME,
-    dialect: 'postgres'
+    port: process.env.DB_PORT,
+    dialect: process.env.DB_DRIVER,
+    logging: false
   }
 };
-module.exports = databaseConfig;
