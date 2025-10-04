@@ -1,7 +1,7 @@
 import { Request, Response } from 'express';
+import { QueryTypes } from 'sequelize';
 import { logger } from '../../logger/Logger';
 import db from '../../models';
-import { QueryTypes } from 'sequelize';
 import { sequelize } from '../../config/sequelize';
 
 export class MasterController {
